@@ -1,4 +1,8 @@
-# Hello, My name is Sreevishnu  :grin:
+# Hello :wave:, My name is Sreevishnu  😃
+I am 
+- A Computer Science Engineer :sparkles:
+- A Web Developer :computer:
+- Cyber Security Guy 
 
 
 ![Sreevishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreevishnu-ux&hide=issues&show_icons=true&theme=gotham)
