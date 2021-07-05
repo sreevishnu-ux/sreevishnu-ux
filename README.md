@@ -3,7 +3,7 @@
 - A Computer Science Engineer :sparkles:
 - A Web Developer :computer:
 - Cyber Security Guy :new_moon_with_face:
-- A full time Astrophile :milky_way: :rocket:
+- A full time Astrophile :rocket: :rocket:
 
 
 ![Sreevishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreevishnu-ux&hide=issues&show_icons=true&theme=gotham)
