@@ -1,9 +1,13 @@
-# Hello :wave:, My name is Sreevishnu  😃
-# I am 
+# Hello :wave:, I am Sreevishnu 😃
 - A Computer Science Engineer :sparkles:
 - A Web Developer :computer:
 - Cyber Security Guy :new_moon_with_face:
-- A full time Astrophile :rocket: :rocket:
+- A full time Astrophile :rocket: :milky_way:
+
+# I am currently working on
+- Javascript
+- Bootstrap
+- Rest APIs
 
 
 ![Sreevishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreevishnu-ux&hide=issues&show_icons=true&theme=gotham)
