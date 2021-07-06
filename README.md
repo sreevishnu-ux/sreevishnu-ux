@@ -21,26 +21,17 @@
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/akshat-tamrakar">
+  <a href="https://www.linkedin.com/in/sreevishnu-t-84b335173/">
     <img  alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/linkedin.svg"/>
+ 
   &nbsp&nbsp&nbsp&nbsp
-  <a href="https://www.hackerrank.com/dev_akshat">
-    <img  alt="HackerRank" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/hacker_rank.svg"/>
-  </a>
-  &nbsp&nbsp&nbsp&nbsp
-  <a href="https://github.com/dev-akshat">
+  <a href="https://github.com/sreevishnu-ux">
     <img alt="GitHub" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/github.svg"/>
   </a>
   &nbsp&nbsp&nbsp&nbsp
-  <a href="https://www.instagram.com/a.k.s.h.a.t">
-    <img  alt="Instagram" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/instagram.svg"/>
-  </a>
+ 
   &nbsp&nbsp&nbsp&nbsp
-  <a href="https://www.facebook.com/i.am.akshat.tamrakar">
-    <img alt="Facebook" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/facebook.svg"/>
-  </a>
-  &nbsp&nbsp&nbsp&nbsp
-  <a href="https://twitter.com/AkshatTamraka12">
+  <a href="https://twitter.com/t_sreevishnu">
     <img alt="Twitter" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/twitter.svg"/>
   </a>
 
