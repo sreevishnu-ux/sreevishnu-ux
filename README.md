@@ -20,6 +20,7 @@
 <h2 align="center">Find me on</h2>
 
 &nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp
  <a href="https://www.linkedin.com/in/sreevishnu-t-84b335173/">
     <img  alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/linkedin.svg"/>
  &nbsp&nbsp&nbsp&nbsp
@@ -28,9 +29,11 @@
     <img alt="GitHub" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/github.svg"/>
   </a>
  &nbsp&nbsp&nbsp&nbsp
+ &nbsp&nbsp&nbsp&nbsp
   <a href="https://twitter.com/t_sreevishnu">
     <img alt="Twitter" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/twitter.svg"/>
   </a>
+ &nbsp&nbsp&nbsp&nbsp
  &nbsp&nbsp&nbsp&nbsp
 
 
