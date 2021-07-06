@@ -29,7 +29,6 @@
     <img alt="GitHub" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/github.svg"/>
   </a>
  
- &nbsp&nbsp&nbsp&nbsp
   <a href="https://twitter.com/t_sreevishnu">
     <img alt="Twitter" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/twitter.svg"/>
   </a>
