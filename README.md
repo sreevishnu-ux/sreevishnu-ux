@@ -2,6 +2,7 @@
 - A Computer Science Engineer :sparkles:
 - A Web Developer :computer:
 - Cyber Security Guy :new_moon_with_face:
+- A pythonista 🐍
 - A full time Astrophile :rocket: :milky_way:
 
 # I am currently working on
