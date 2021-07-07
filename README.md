@@ -17,7 +17,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${sreevishnu-ux}.${https://github.com/sreevishnu-ux/sreevishnu-ux/README.md})
 
-<p > Connect with me in
+<p >Get in touch
 <br>	
 <a target="_blank" href=""><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href=""><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
