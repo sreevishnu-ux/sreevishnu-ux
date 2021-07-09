@@ -15,7 +15,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreevishnu-ux&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${sreevishnu-ux}.${https://github.com/sreevishnu-ux/sreevishnu-ux/README.md})
 
 <p >Connect with me on
 <br>	
