@@ -10,14 +10,9 @@
 - Bootstrap
 - Rest APIs
 
-
+# My Github stats
 ![Sreevishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreevishnu-ux&hide=issues&show_icons=true&theme=gotham)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreevishnu-ux&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=sreevishnu-ux&theme=react-dark&hide_border=true&area=true)
-
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${sreevishnu-ux}.${https://github.com/sreevishnu-ux/sreevishnu-ux/README.md})
 
 <p >Connect with me on
