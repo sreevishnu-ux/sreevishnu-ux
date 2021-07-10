@@ -5,10 +5,11 @@
 - A pythonista 🐍
 - A full time Astrophile :rocket: :milky_way:
 
-# I am currently working on
-- Javascript
+# Technologies
 - Bootstrap
-- Rest APIs
+- HTML/CSS
+- Python
+- Javascript
 
 # My Github stats
 ![Sreevishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreevishnu-ux&hide=issues&show_icons=true&theme=gotham)
