@@ -1,4 +1,4 @@
-# Hello :wave:, I am Sreevishnu 😃 <h3>(I like to code, Watch movies and Find vulnerabilities 🤓)</h3>
+# Hello :wave:, I am Sreevishnu 😃 
 - A Computer Science Engineer :sparkles:
 - A Web Developer :computer:
 - Cyber Security Guy :new_moon_with_face:
@@ -16,6 +16,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreevishnu-ux&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
+<h3>I like to code, Watch movies and Find vulnerabilities 🤓</h3>
 
 <p >Connect with me on
 <br>	
