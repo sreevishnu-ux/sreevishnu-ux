@@ -1,4 +1,4 @@
-# Hello :wave:, I am Sreevishnu 😃
+# Hello :wave:, I am Sreevishnu 😃 (I like to code, Watch movies and Find vulnerabilities 🤓)
 - A Computer Science Engineer :sparkles:
 - A Web Developer :computer:
 - Cyber Security Guy :new_moon_with_face:
