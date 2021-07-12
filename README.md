@@ -17,6 +17,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreevishnu-ux&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 <figure><embed src="https://wakatime.com/share/@sreevishnu_ux/e31ff4fa-4cb5-4852-8bbe-c88ebc2fee55.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@sreevishnu_ux/7ebbd168-1a75-461d-896a-f650e849f07d.svg"></embed></figure>
 
 <h3>I like to code, Watch movies and Find vulnerabilities 🤓</h3>
 
