@@ -17,8 +17,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreevishnu-ux&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 https://github-readme-stats.vercel.app/api/wakatime?shareid=sreevishnu_ux/sreevishnu_ux/5b2e4c4a-1c80-4efb-90f2-2d92e78669cd
-.. image:: https://wakatime.com/share/@sreevishnu_ux/f84a0e82-ebd2-40d1-b4e3-1c1408a794d1.png
-    :target: https://wakatime.com/
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sreevishnu_ux)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <h3>I like to code, Watch movies and Find vulnerabilities 🤓</h3>
