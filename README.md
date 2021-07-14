@@ -5,7 +5,7 @@
 - A pythonista 🐍
 - A full time Astrophile :rocket: :milky_way:
 
-# Technologies
+# Technologies used
 - Bootstrap
 - HTML/CSS
 - Python
