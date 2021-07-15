@@ -5,6 +5,9 @@
 - A pythonista 🐍
 - A full time Astrophile :rocket: :milky_way:
 
+# About me
+I am currently pursuing my Bachelors in Computer Science Engineering from Sahyadri College of Engineering and Management and I love to code, Watch movies and find vulnerabilities.
+
 # Technologies used
 - Bootstrap
 - HTML/CSS
@@ -20,7 +23,6 @@
 
 
 
-<h3>I like to code, Watch movies and Find vulnerabilities 🤓</h3>
 
 <p>Connect with me on
 <br>	
