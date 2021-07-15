@@ -9,6 +9,8 @@
 I am currently pursuing my Bachelors in Computer Science Engineering from Sahyadri College of Engineering and Management and I love to code, Watch movies and find vulnerabilities.
 
 # Technologies used
+
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 - Bootstrap
 - HTML/CSS
 - Python
