@@ -6,7 +6,7 @@
 - A full time Astrophile :rocket: :milky_way:
 
 # About me
-I am currently pursuing my Bachelors in Computer Science Engineering from Sahyadri College of Engineering and Management and I love to code, Watch movies and find vulnerabilities.
+I am currently pursuing my Bachelors in Computer Science Engineering from Sahyadri College of Engineering and Management, Mangalore. I love to code, watch movies and find vulnerabilities in websites.
 
 # Technologies used
 
@@ -19,7 +19,7 @@ I am currently pursuing my Bachelors in Computer Science Engineering from Sahyad
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 <code><img height="40" width="40" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 <code><img height="40" width="40" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="40" width="40" src= " https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
 
 
 # My Github stats
