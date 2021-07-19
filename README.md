@@ -26,7 +26,7 @@ I am currently pursuing my Bachelors in Computer Science Engineering from Sahyad
 ![Sreevishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreevishnu-ux&hide=issues&show_icons=true&theme=gotham)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreevishnu-ux&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@sreevishnu_ux/79cd408d-2c54-421e-aef3-ef0007369468.png" width = 400px /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@sreevishnu_ux/14c69a22-4117-493f-be22-44a79cfcf11b.png" width= 400px /></a>
 
 
 
