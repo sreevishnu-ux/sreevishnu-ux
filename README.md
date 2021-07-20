@@ -19,7 +19,7 @@ I am currently pursuing my Bachelors in Computer Science Engineering from Sahyad
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 <code><img height="40" width="40" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 <code><img height="40" width="40" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-[![HTML5 and CSS3](https://github.com/FransLopez/logo-images/blob/master/logos/html5andcss3.png)](http://www.w3.org/) 
+[![JavaScript](http://3con14.biz/code/_data/js/intro/js-logo.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
 
