@@ -20,6 +20,8 @@ I am currently pursuing my Bachelors in Computer Science Engineering from Sahyad
 <code><img height="40" width="40" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 <code><img height="40" width="40" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="40" width="40" src= "https://raw.githubusercontent.com/ddmarin94/React-Webpack-Github/master/img/babel.png"></code>
+<code><img height="40" width="40" src= "https://raw.githubusercontent.com/ddmarin94/React-Webpack-Github/master/img/webpack.png"></code>
+
 
 
 
