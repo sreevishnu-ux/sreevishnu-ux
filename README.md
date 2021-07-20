@@ -10,7 +10,7 @@ I am currently pursuing my Bachelors in Computer Science Engineering from Sahyad
 
 # Languages known
 <code><img height="40" width="40" src="http://3con14.biz/code/_data/js/intro/js-logo.png"></code>
-<code><img height="40" width="40" src="https://en.wikipedia.org/wiki/C_(programming_language"></code>
+<code><img height="40" width="40" src="https://i.imgur.com/Ao2P8iG.png"></code>
 <code><img height="40" width="40" src="https://i.imgur.com/zINUxVf.png"></code>
 <code><img height="40" width="40" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true"></code>
 
