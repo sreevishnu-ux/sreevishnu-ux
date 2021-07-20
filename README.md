@@ -8,7 +8,11 @@
 # About me
 I am currently pursuing my Bachelors in Computer Science Engineering from Sahyadri College of Engineering and Management, Mangalore. I love to code, watch movies and find vulnerabilities in websites.
 
-#Languages known
+# Languages known
+<code><img height="40" width="40" src="http://3con14.biz/code/_data/js/intro/js-logo.png"></code>
+<code><img height="40" width="40" src="https://en.wikipedia.org/wiki/C_(programming_language"></code>
+<code><img height="40" width="40" src="https://i.imgur.com/Ao2P8iG.png"></code>
+<code><img height="40" width="40" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true"></code>
 
 
 # Technologies used
