@@ -9,7 +9,7 @@
 I am currently pursuing my Bachelors in Computer Science Engineering from Sahyadri College of Engineering and Management, Mangalore. I love to code, watch movies and find vulnerabilities in websites.
 I am currently learning React JS.
 #
-Learn about me @ https://sreevishnu-ux.github.io/
+Know more about me at https://sreevishnu-ux.github.io/
 
 # Languages known
 <code><img height="40" width="40" src="http://3con14.biz/code/_data/js/intro/js-logo.png"></code>
