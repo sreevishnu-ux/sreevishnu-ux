@@ -5,7 +5,7 @@
 - A pythonista 🐍
 - A full time Astrophile :rocket: :milky_way:
 
-# Know more about me at https://sreevishnu-ux.github.io/
+
 # About me
 I am currently pursuing my Bachelors in Computer Science Engineering from Sahyadri College of Engineering and Management, Mangalore. I love to code, watch movies and find vulnerabilities in websites.
 I am currently learning React JS.
