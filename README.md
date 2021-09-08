@@ -41,7 +41,7 @@ https://sreevishnu-ux.github.io/
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreevishnu-ux&layout=compacttheme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@sreevishnu_ux/14c69a22-4117-493f-be22-44a79cfcf11b.png" width= 400px /></a>
 
